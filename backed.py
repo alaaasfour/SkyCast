@@ -1,7 +1,5 @@
 import requests
-
-# API key for accessing the OpenWeatherMap API
-API_KEY = "0fe9342a21fba27b9ee1554db99bb25d"
+from config import API_KEY
 
 
 def get_data(place, forecast_days=None):
