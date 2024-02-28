@@ -7,13 +7,13 @@ forecast days.
 
 ## Features ✨
 
-### 1. Dynamic Interface
+### 1. Dynamic Interface 💻
 Users can input a location and select the number of forecast days using text input, slider, and select box elements.
 
-### 2. Temperature Forecast
+### 2. Temperature Forecast 🌡️
 Users can view the temperature forecast for the selected location and days in either Celsius.
 
-### 3. Sky Condition Forecast
+### 3. Sky Condition Forecast 🌌
 Users can view the sky conditions forecast for the selected location and days, represented by images (clear, snow, clouds, rain).
 
 ## Getting Started 🚀
